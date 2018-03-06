@@ -1,0 +1,3 @@
+com/algaworks/estoque/model/Produto.class
+com/algaworks/estoque/repository/Produtos.class
+com/algaworks/estoque/controller/ProdutosResource.class
